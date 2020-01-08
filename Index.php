@@ -1,6 +1,6 @@
 <?php
 
- $nome ="nome";
+ $nome ="Aula1";
 
 var_dump($nome)
 
