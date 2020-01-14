@@ -14,6 +14,6 @@
 /////////////////////////////////
   $arquivo = fopen ("1.png","r");     //Variável do tipo resource
   var_dump($arquivo);
-//$nulo = null                       //Variável nula, ou seja não tem valor
+//$nulo = null                       //Variável nula, ou seja não tem valor, não tem um espaço reservado na memória.
 //$vazio =""                     //vazio, ou seja, tem espaço reservado na memória, mas não há nenhuma informação.
 ?>
