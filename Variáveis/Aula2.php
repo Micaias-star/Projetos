@@ -2,7 +2,7 @@
 
  $nome ="Teste";
 
-var_dump($nome)
+ var_dump($nome)
  
 
 ?>
