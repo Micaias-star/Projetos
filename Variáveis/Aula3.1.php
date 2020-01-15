@@ -1,6 +1,6 @@
 <?php
 
- $nome ="Micaias";
+  $nome ="Micaias";
  $sobrenome = "Silva";
  $nomeCompleto = $nome . " " . $sobrenome; // Usa-se o . para concatenar as variáveis.
 
