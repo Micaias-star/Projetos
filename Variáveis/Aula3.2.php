@@ -1,6 +1,6 @@
 <?php
 
-  $nome ="Hcode";                                   //strings
+   $nome ="Hcode";                                   //strings
   $site = 'www.hcode.com.br';                     //string
   $ano  =  1998;                                 //Inteiro
   $salario = 5500.99;                           //Ponto flutuante
