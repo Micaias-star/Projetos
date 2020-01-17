@@ -10,7 +10,7 @@ $nome .= "Teste"; // .= é um operador que soma o dado da variável em questão 
 
 $valorTotal = 0;
 
-$valorTotal += 100;   
+$valorTotal += 100;    // sig que o valor 100 será somado com o dado da variável e será colocado dentro dela.
 
 $valorTotal += 25;
 
