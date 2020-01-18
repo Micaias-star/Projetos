@@ -1,11 +1,15 @@
 <?php
 
-$frase = "A repetição é a mãe da repetição";
+$frase =  "A repetição é a mãe da repetição";
 
 $palavra = "mãe";
 
+<<<<<<< HEAD
 $q = strpos($frase, $palavra);  /* strpos(string alvo, palavra a ser encontrada ( aqui pode ser a variável ou a propria palavra entre aspas) = posição da palavra dentro da string) */
 
+=======
+$q = strpos($frase, $palavra);  /* strpos(string alvo, palavra a ser encontrada ( aqui pode ser tanto uma variável que corresponda a palavra quanto a propria palavra = posição da palavra dentro da string)*/
+>>>>>>> 6766f1f9f994199869f6690b22e273210ef49953
 echo $q;
 
 echo "<br>";
