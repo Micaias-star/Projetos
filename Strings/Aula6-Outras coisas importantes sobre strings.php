@@ -1,6 +1,6 @@
 <?php
 
-$frase = "A repetição é a mãe da repetição";
+$frase =  "A repetição é a mãe da repetição";
 
 $palavra = "mãe";
 
