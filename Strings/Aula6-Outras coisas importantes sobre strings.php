@@ -4,7 +4,7 @@ $frase = "A repetição é a mãe da repetição";
 
 $palavra = "mãe";
 
-$q = strpos($frase, $palavra);  // strpos(string alvo, palavra a ser encontrada = posição da palavra dentro da string)
+$q = strpos($frase, $palavra);  /* strpos(string alvo, palavra a ser encontrada ( aqui pode ser a variável ou a propria palavra entre aspas) = posição da palavra dentro da string) */
 
 echo $q;
 
