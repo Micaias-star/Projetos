@@ -6,7 +6,6 @@ echo $campo1;
 Já a palavra "method" será a forma como vai ser feito a requisição, se via _GET ou via _POST*/
 ?>
 
-
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
